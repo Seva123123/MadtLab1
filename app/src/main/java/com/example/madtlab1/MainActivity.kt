@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
+    //Code for revert
 
     private lateinit var RootLayout: LinearLayout
     private lateinit var TextViewMessage: TextView
